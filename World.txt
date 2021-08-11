@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 World Pravin H 132122
+=======
+World_Pravin H
+>>>>>>> new_1
 Hello Welome to home
 Praveen
