@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 World Pravin H 132122
 =======
 World_Pravin H
 >>>>>>> new_1
+=======
+World Pravin H 132122get
+>>>>>>> M1
 Hello Welome to home
 Praveen
+get Eppo ella na appo world 1
