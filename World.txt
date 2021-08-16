@@ -15,4 +15,8 @@ David Anand
 =======
 David
 >>>>>>> M1
+<<<<<<< HEAD
 2 aadd text into it
+=======
+add text into it
+>>>>>>> c1
