@@ -21,4 +21,8 @@ David
 add text into it
 >>>>>>> c1
 17-8-2021
+<<<<<<< HEAD
 18/Aug/2021 - from main
+=======
+18/08/2020
+>>>>>>> Child1
